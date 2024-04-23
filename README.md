@@ -1,5 +1,3 @@
-<style>h1{color: rgb(167, 88, 252);}</style>
-
 # Hi, I'm Aryamaan Goswamy!
 
 I'm a 16 year old developer passionate about data science. I can code in Python and I make apps using Flutter. I'm currently learning web development and cross-platform development using JavaScript.
