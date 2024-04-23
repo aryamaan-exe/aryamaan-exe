@@ -1,8 +1,4 @@
-<style>
-  h1 {
-    color: rgb(167, 88, 252);
-  }
-</style>
+<style>h1{color: rgb(167, 88, 252);}</style>
 
 # Hi, I'm Aryamaan Goswamy!
 
