@@ -2,7 +2,7 @@
 
 I'm a sophomore studying Information Sciences + Data Science at the University of Illinois, Urbana-Champaign. I love learning about new C++ features and implementing them in code.
 
-I mainly code in C++, Python, and JavaScript. I can also code in Java, Dart (using Flutter), or any language best designed for the task. You can check out [my website](https://aryamaan.me/), although most portfolio links will redirect you to my GitHub. I'd love for you to drop any book recommendations in my reading list over there.
+I mainly code in C++, Python, and JavaScript. You can check out [my website](https://aryamaan.me/), although most portfolio links will redirect you to my GitHub. I'd love for you to drop any book recommendations in my reading list over there.
 
 I'm the incoming president of [SIGMobile](https://github.com/sigmobileUIUC/), the special interest group for mobile development at UIUC. We primarily use Flutter and React Native, but Swift resources are under construction.
 
