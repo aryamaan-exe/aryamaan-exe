@@ -1,6 +1,6 @@
 # Hi, I'm Aryamaan Goswamy!
 
-I'm a sophomore studying Information Sciences + Data Science at the University of Illinois, Urbana-Champaign. I love learning about new C++ features and implementing them in code.
+I'm a sophomore studying Information Sciences + Data Science and minoring in Computer Science at the University of Illinois, Urbana-Champaign. I love learning about new C++ features and implementing them in code.
 
 I mainly code in C++, Python, and JavaScript. You can check out [my website](https://aryamaan.me/), although most portfolio links will redirect you to my GitHub. I'd love for you to drop any book recommendations in my reading list over there.
 
